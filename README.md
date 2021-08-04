@@ -21,4 +21,3 @@ Reasons I am giving this Assignment
 2) How to create the REST API's
 3) How to connect and use the third party API
 4) if you can able to write the first part in all 3 fashion (callback/promises/async-await), then try to understand the advantage and disadvantage of each in terms of readability, code formatting, functionality extensibility and bug fixing.
-========================================================================================================
